@@ -13,10 +13,10 @@ Using Apache Spark, the project processes and analyzes two datasets:
 
 Key insights derived from the analysis include:
 
-Total sales by year, month, and quarter.
-Top 5 ordered food items.
-Frequency of customer visits to restaurants.
-Sales analysis by country and order source.
+- Total sales by year, month, and quarter.
+- Top 5 ordered food items.
+- Frequency of customer visits to restaurants.
+- Sales analysis by country and order source.
 
 ## Key Functions in the Notebook
 
